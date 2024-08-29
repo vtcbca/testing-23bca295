@@ -1,0 +1,14 @@
+/* (4)WAP to print ASCII value of the character
+ID : 23BCA299 */
+
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+	char c;
+	clrscr();
+	cout<<"Enter a Character : ";
+	cin>>c;
+	cout<<"ASCII value of "<<c<<" is "<<static_cast<<endl;
+	getch();
+}
