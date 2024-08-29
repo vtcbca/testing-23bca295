@@ -1,5 +1,5 @@
 # Write a program to print name using udf.
-def name (nm):
-    print(nm)
-name("demo")
+def name (name):
+    print(name)
+name("ammar")
 
