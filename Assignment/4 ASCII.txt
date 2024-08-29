@@ -1,5 +1,5 @@
 /* (4)WAP to print ASCII value of the character
-ID : 23BCA299 */
+ID : 23BCA295 */
 
 #include<iostream.h>
 #include<conio.h>
